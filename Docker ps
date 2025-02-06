@@ -1,0 +1,3 @@
+CONTAINER ID   IMAGE                  COMMAND   CREATED       STATUS         PORTS                  NAMES
+ce6cde989111   411-base-image:1.0.0   "bash"    3 hours ago   Up 6 seconds   0.0.0.0:443->443/tcp   my-411-container
+(base) grantgwadz@crc-dot1x-nat-10-239-59-131 ~ % 
